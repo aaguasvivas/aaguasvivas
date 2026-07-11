@@ -1,6 +1,6 @@
 # Hola, I'm Adelson 👋
 
-Software engineer in New York. Harvard CS '21, ex-Amazon (Alexa), now platform engineering at Coachable. I build secure, data-intensive systems and ship complete products, in English y en español.
+Software engineer in New York. Harvard CS '21, ex-Amazon (Alexa), now platform engineering at Coachable. I build secure, data-intensive systems and complete products end to end, in English y en español.
 
 ## Selected work
 
