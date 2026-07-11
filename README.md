@@ -19,4 +19,4 @@ Software engineer in New York. Harvard CS '21, ex-Amazon (Alexa), now platform e
 - AI-accelerated workflows with Claude Code, Codex, and Cursor, with test suites keeping them honest
 - Bilingual products by default: Spanish first, then English
 
-🌐 [adelsonaguasvivas.pages.dev](https://adelsonaguasvivas.pages.dev)
+🌐 [adelsonaguasvivas.com](https://adelsonaguasvivas.com)
