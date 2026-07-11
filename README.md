@@ -29,6 +29,7 @@ I build secure, data-intensive systems and complete products end to end, in Engl
 | **[Capi](https://github.com/aaguasvivas/capi)** · [playcapi.com](https://playcapi.com) | Real-time multiplayer Dominican dominoes: 1v1 and 2v2, authentic rules, no accounts needed. Zero-dependency rules engine with 62 tests. | Next.js, TypeScript, Supabase Realtime |
 | **[Invicto](https://github.com/aaguasvivas/invicto)** · [invictobaseball.com](https://invictobaseball.com) | Daily World Baseball Classic draft game: real data pipeline, Monte Carlo-calibrated difficulty, ships in 4 languages. | TypeScript, Vite, Cloudflare D1 |
 | **[Anota](https://github.com/aaguasvivas/anota)** · [App Store](https://apps.apple.com/us/app/anota-domino-scorekeeper/id6781593280) | Dominican dominoes scorekeeper for iPhone, shipped with in-app purchases and OTA updates. | Expo, React Native, StoreKit |
+| **[SWARMGEDDON](https://github.com/aaguasvivas/SWARMGEDDON)** · [play](https://swarmgeddon.adelsonaguasvivas.workers.dev) | Twin-stick survival shooter on a hand-rolled engine: 60 Hz fixed-timestep simulation, spatial-hash collisions, fully deterministic seeded runs, synthesized audio. | TypeScript, PixiJS (WebGL), Capacitor |
 | **[pdg](https://github.com/aaguasvivas/pdg)** · [cdg](https://github.com/aaguasvivas/cdg) | LLVM dependence-graph passes from DREU research on automated CS grading (10x grading throughput). | C++, LLVM |
 
 ## How I build
