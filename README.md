@@ -26,8 +26,8 @@ Ex-Amazon (Alexa) · Harvard CS '21 · Platform engineering at Coachable
 
 | Project | What it is | Stack |
 |---|---|---|
-| **[Ledgerline](https://github.com/aaguasvivas/ledgerline)** · [live](https://ledgerline.adelsonaguasvivas.workers.dev) | Edge-native event-stream API: exactly-once writes, strong per-stream ordering, and a tamper-evident SHA-256 hash chain. 68 tests, CI on every push. | Cloudflare Workers, Durable Objects, D1, TypeScript, Hono |
-| **[Capi](https://github.com/aaguasvivas/capi)** · [playcapi.com](https://playcapi.com) | Real-time multiplayer Dominican dominoes: 1v1 and 2v2, authentic rules, no accounts needed. Zero-dependency rules engine with 62 tests. | Next.js, TypeScript, Supabase Realtime |
+| **[Ledgerline](https://github.com/aaguasvivas/ledgerline)** · [live](https://ledgerline.adelsonaguasvivas.workers.dev) | Edge-native event-stream API: exactly-once writes, strong per-stream ordering, and a tamper-evident SHA-256 hash chain. 69 tests, CI on every push. | Cloudflare Workers, Durable Objects, D1, TypeScript, Hono |
+| **[Capi](https://github.com/aaguasvivas/capi)** · [playcapi.com](https://playcapi.com) | Real-time multiplayer Dominican dominoes: 1v1 and 2v2, authentic rules, no accounts needed. Zero-dependency rules engine with 112 tests. | Next.js, TypeScript, Supabase Realtime |
 | **[Invicto](https://github.com/aaguasvivas/invicto)** · [invictobaseball.com](https://invictobaseball.com) | Daily World Baseball Classic draft game: real data pipeline, Monte Carlo-calibrated difficulty, ships in 4 languages. | TypeScript, Vite, Cloudflare D1 |
 | **[SWARMGEDDON](https://github.com/aaguasvivas/SWARMGEDDON)** · [play](https://swarmgeddon.adelsonaguasvivas.workers.dev) | Twin-stick survival shooter on a hand-rolled engine: 60 Hz fixed-timestep simulation, spatial-hash collisions, fully deterministic seeded runs, synthesized audio. | TypeScript, PixiJS (WebGL), Capacitor |
 | **[Anota](https://github.com/aaguasvivas/anota)** · [App Store](https://apps.apple.com/us/app/anota-domino-scorekeeper/id6781593280) | Dominican dominoes scorekeeper for iPhone, shipped with in-app purchases and OTA updates. | Expo, React Native, StoreKit |
@@ -35,7 +35,7 @@ Ex-Amazon (Alexa) · Harvard CS '21 · Platform engineering at Coachable
 
 ## How I Build
 
-- **Correctness first**: TypeScript strict mode, and real test suites where they matter (Ledgerline: 68, Capi's rules engine: 62)
+- **Correctness first**: TypeScript strict mode, and real test suites where they matter (Ledgerline: 69, Capi's rules engine: 112)
 - **Production over demos**: live on Cloudflare Workers, the App Store, and everything in between
 - **AI-accelerated**: Claude Code, Codex, and Cursor in the loop, with tests keeping them honest
 - **Bilingual products**: Spanish first, then English
